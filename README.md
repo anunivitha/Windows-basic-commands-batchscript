@@ -58,7 +58,8 @@ mkdir %userprofile%\Desktop\Backup
 
 mv Myfile.txt %userprofile%\Documents
 
-![alt text](<Screenshot (305).png>)
+<img width="830" alt="Screenshot 2025-05-20 at 10 58 57 PM" src="https://github.com/user-attachments/assets/09d989d8-6f34-49cd-a2ef-38173009ba12" />
+
 
 ## Exercise 2: Advanced Batch Scripting
 
@@ -70,7 +71,7 @@ copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
 echo Backup completed successfully!
 
 ## OUTPUT :
-![WhatsApp Image 2024-05-07 at 19 36 14_9ddc8782](https://github.com/HIRU-VIRU/Windows-basic-commands-batchscript/assets/145972122/1e8bd16c-f8d8-460c-8330-25beff843206)
+<img width="825" alt="Screenshot 2025-05-20 at 10 59 06 PM" src="https://github.com/user-attachments/assets/43b0cb85-1514-42f7-b990-fe9efff5ae1e" />
 
 
 ## RESULT :
